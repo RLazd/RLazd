@@ -7,7 +7,7 @@ Java Developer
 CODELEX, 2022. Java, Spring Boot, API REST, JUnit. Medical Doctor, 2022. Riga Stradins University.
 
 * 🌍  I'm based in Riga
-* 🧠  I'm learning Angular, SQL
+* 🧠  I'm learning Angular, TS
 
 ### Skills
 
