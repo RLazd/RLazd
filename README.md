@@ -8,7 +8,7 @@ CODELEX, 2022. Java, Spring Boot, API REST, JUnit. Thorough. Hard working. Team 
 
 * 🌍  I'm based in Riga, Latvia
 
-
+<!-- 
 ### Skills
 
 <p align="left">
@@ -20,3 +20,4 @@ CODELEX, 2022. Java, Spring Boot, API REST, JUnit. Thorough. Hard working. Team 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/RLazd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ramona lazdina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ -->
