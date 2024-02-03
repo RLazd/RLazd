@@ -1,12 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ramona 
 ======================================================================================================================================
 
-Java Developer
+Software Developer
 --------------
+Transitioned from the healthcare sector to the realm of technology, undertook a Java-focused bootcamp and currently working as an Integration Developer in Helmes Latvia. 
+In my free time cultivating front-end skills.
 
-CODELEX, 2022. Java, Spring Boot, API REST, JUnit. Thorough. Hard working. Team player. Medical Doctor, 2022. Riga Stradins University.
+Thorough. Hard working. Team player. 
 
-* 🌍  I'm based in Riga, Latvia
+CODELEX, 2022. 
+Medical Doctor, 2022. Riga Stradins University.
+
+* 🌍  Based in Riga, Latvia
 
 <!-- 
 ### Skills
