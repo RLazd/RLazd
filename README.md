@@ -11,7 +11,7 @@ Thorough. Hard working. Team player.
 CODELEX, 2022. 
 Medical Doctor, 2022. Riga Stradins University.
 
-* 🌍  Based in Riga, Latvia
+🌍  Based in Riga, Latvia
 
 <!-- 
 ### Skills
