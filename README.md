@@ -8,12 +8,12 @@ In my free time cultivating front-end skills, aspiring to become a full-stack de
 
 Thorough. Hard working. Team player. 
 
-CODELEX, 2022. 
+Codelex, 2022.   
 Medical Doctor, 2022. Riga Stradins University.
 
 🌍  Based in Riga, Latvia
 
-### Check Out my Linkedin
+### Check out my Linkedin
 
 <p align="left"> 
  
