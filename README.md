@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 --------------
 Transitioned from the healthcare sector to the realm of technology, undertook a Java-focused bootcamp and currently working as an Integration Developer in Helmes Latvia. 
-In my free time cultivating front-end skills.
+In my free time cultivating front-end skills, aspiring to become a full-stack dev.
 
 Thorough. Hard working. Team player. 
 
@@ -12,6 +12,15 @@ CODELEX, 2022.
 Medical Doctor, 2022. Riga Stradins University.
 
 🌍  Based in Riga, Latvia
+
+### Socials
+
+<p align="left"> 
+ 
+<a href="https://www.github.com/RLazd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> https://www.linkedin.com/in/ramona-lazdina/ </a>  
+<a href="https://www.linkedin.com/in/ramona lazdina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
+</p>
 
 <!-- 
 ### Skills
