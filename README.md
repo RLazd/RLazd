@@ -6,7 +6,7 @@ Software Developer
 Transitioned from the healthcare sector to the realm of technology, undertook a Java-focused bootcamp and currently working as an Integration Developer in Helmes Latvia. 
 In my free time cultivating front-end skills, aspiring to become a full-stack dev.
 
-Thorough. Hard working. Team player. 
+Thorough. Diligent. Team player. 
 
 Codelex, 2022.   
 Medical Doctor, 2022. Riga Stradins University.
